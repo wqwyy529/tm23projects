@@ -1,7 +1,3 @@
-# 开发团队：铁科院经纬公司
-# 开发人员：wuqun
-# 开发时间：2023-12-2 21:12
-
 import jieba
 import re
 import warnings
